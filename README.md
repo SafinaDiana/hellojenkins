@@ -210,3 +210,4 @@ CI/CD Jenkins lab — Diana Safina.
 =======
 Тестовая правка для триггера master
 >>>>>>> 8b219d8 (Тестовая правка для Jenkins master)
+Проверка webhook для сборки #7
