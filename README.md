@@ -183,3 +183,7 @@ CI/CD Jenkins lab — Diana Safina.
 6. Убедитесь, что GitHub webhook корректно сработал, и Jenkins автоматически запустил повторную сборку.
 
 ***
+
+
+CI/CD Jenkins lab — Diana Safina.
+CI/CD Jenkins lab — Diana Safina.
