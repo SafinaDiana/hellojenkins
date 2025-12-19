@@ -212,3 +212,4 @@ CI/CD Jenkins lab — Diana Safina.
 >>>>>>> 8b219d8 (Тестовая правка для Jenkins master)
 Проверка webhook для сборки #7
 Проверка webhook для сборки #7
+Проверка webhook для сборки #8
