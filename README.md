@@ -213,3 +213,4 @@ CI/CD Jenkins lab — Diana Safina.
 Проверка webhook для сборки #7
 Проверка webhook для сборки #7
 Проверка webhook для сборки #8
+Проверка webhook для сборки #9
