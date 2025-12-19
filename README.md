@@ -199,3 +199,6 @@ CI/CD Jenkins lab — Diana Safina.
 
 
 Тестовая правка для Jenkins2
+
+
+Тестовая правка для мастер
